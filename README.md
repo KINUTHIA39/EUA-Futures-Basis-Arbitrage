@@ -43,4 +43,4 @@ The analysis pipeline was built to handle financial time-series data with the fo
 * **Focus:** Quantitative Finance, Algorithmic Trading, DeFi
 
 ### Here is a 'live' version of the project:
-https://kinuthia39.github.io/EUA-Futures-Basis-Arbitrage/
+https://kinuthia39.github.io/EUA-Futures-Basis-Arbitrage/  
